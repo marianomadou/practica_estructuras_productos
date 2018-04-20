@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524230565 source:c:\users\mariano\desktop\tecnicatura-utn\programacion y laboratorio i\ejercicios&tp's\practica_estructuras_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
